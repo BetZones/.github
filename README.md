@@ -1,0 +1,2 @@
+# .github
+Online Betting Platform
